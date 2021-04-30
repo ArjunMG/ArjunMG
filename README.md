@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArjunMG
 - 👀 I’m interested in FullStack web app development
-- 🌱 I’m currently learning Javascript, React and AWS
 - 📫 Reach me on www.twitter.com/arjunwyd
 
 <!---
